@@ -1,5 +1,5 @@
 <?php
-
+namespace App\Class\Car;
 class Car{
 
 
