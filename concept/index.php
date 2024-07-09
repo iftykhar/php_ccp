@@ -1,0 +1,3 @@
+<?php
+
+//property promotion, constructor
